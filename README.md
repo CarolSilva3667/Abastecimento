@@ -29,9 +29,15 @@ Cada abastecimento possui:
 * Quilometragem
 
 ## Como executar
+Instale as dependências:
 
 ```bash
 flutter pub get
+```
+
+Execute o aplicativo:
+
+```bash
 flutter run
 ```
 
